@@ -1,0 +1,7 @@
+interface:
+  display_name: "/xxd-panel-104"
+  short_description: "Turn images into halftone compositions with quiet Zen space."
+  default_prompt: "Use $xxd-panel-104 on one image or an image directory. Keep its bundled Chinese original brief as the sole aesthetic authority, preserve each source independently, resolve delivery settings once for a batch, and create fresh raster outputs in the requested modes and sizes."
+
+policy:
+  allow_implicit_invocation: true
