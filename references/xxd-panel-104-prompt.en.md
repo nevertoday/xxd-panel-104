@@ -40,17 +40,17 @@ summarize, or re-plan any palette.
 
 ```text
 OUTPUT MODE: TOP_BOTTOM
-Create one complete canvas whose dominant structure is two primary horizontal parts: the REALITY VIEW above and the TRANSFORMED DESIGN below. Together they organize the full width. Let the image model determine visual proportions, internal crop or extension, whitespace and typography from the source, source brief and final canvas.
+Create one complete canvas whose dominant structure is two primary horizontal parts: the REALITY VIEW above and the TRANSFORMED DESIGN below. Together they organize the full width. Let the image model determine visual proportions, internal crop or extension, whitespace and typography from the source, source brief and final canvas. The complete canvas has exactly these two primary parts. The TRANSFORMED DESIGN below must not contain another photograph, another reality view, an embedded poster, an internal upper/lower comparison, or a second copy of the source. Reject any result that becomes an upper/middle/lower three-part structure.
 ```
 
 ```text
 OUTPUT MODE: LEFT_RIGHT
-Create one complete canvas whose dominant structure is two primary vertical parts: the REALITY VIEW left and the TRANSFORMED DESIGN right. Together they organize the canvas from top edge to bottom edge; all visible material and typography belongs within this left-right structure. Let the image model choose asymmetric widths, internal crop or extension and whitespace.
+Create one complete canvas whose dominant structure is two primary vertical parts: the REALITY VIEW left and the TRANSFORMED DESIGN right. Together they organize the canvas from top edge to bottom edge; all visible material and typography belongs within this left-right structure. Let the image model choose asymmetric widths, internal crop or extension and whitespace. The complete canvas has exactly these two primary parts. The TRANSFORMED DESIGN on the right must not contain another photograph, another reality view, an embedded poster, an internal upper/lower comparison, or a second copy of the source. Reject any result with a nested split inside the right design region.
 ```
 
 ```text
 OUTPUT MODE: DESIGN_ONLY
-Create one full-canvas artwork entirely in the TRANSFORMED DESIGN language. Use the REALITY VIEW only as the non-visible source of identity, structure, relationships, colour logic and facts. Every visible element belongs to the source brief's designed reinterpretation rather than an untransformed presentation of the source photograph.
+Create one full-canvas artwork entirely in the TRANSFORMED DESIGN language. Use the REALITY VIEW only as the non-visible source of identity, structure, relationships, colour logic and facts. Every visible element belongs to the source brief's designed reinterpretation rather than an untransformed presentation of the source photograph. This canvas contains no reality-view region at all. Reject any result containing a photograph, photorealistic rendering, embedded poster, comparison layout, upper/lower split, left/right split, or second copy of the source.
 ```
 
 ```text

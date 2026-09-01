@@ -208,6 +208,11 @@ parts: the REALITY VIEW above and the TRANSFORMED DESIGN below. Together they
 organize the composition across its full width. Let the image model determine
 their visual proportion and each part's internal crop, extension, whitespace
 and typography from the source, source brief and final canvas.
+
+The complete canvas has exactly these two primary parts. The TRANSFORMED DESIGN
+below must not contain another photograph, another reality view, an embedded
+poster, an internal upper/lower comparison, or a second copy of the source.
+Reject any result that becomes an upper/middle/lower three-part structure.
 ```
 
 Left-right:
@@ -222,6 +227,11 @@ all visible material, including typography, belongs within this left-right
 structure. Let the image model determine asymmetric widths and each part's
 internal crop, extension, whitespace and typography from the source, source
 brief and final canvas.
+
+The complete canvas has exactly these two primary parts. The TRANSFORMED DESIGN
+on the right must not contain another photograph, another reality view, an
+embedded poster, an internal upper/lower comparison, or a second copy of the
+source. Reject any result with a nested split inside the right design region.
 ```
 
 Design-only:
@@ -234,6 +244,10 @@ Use the REALITY VIEW only as the non-visible source of identity, structure,
 relationships, colour logic and facts. Every visible visual element must be
 part of the source brief's designed reinterpretation rather than an
 untransformed presentation of the source photograph.
+
+This canvas contains no reality-view region at all. Reject any result containing
+a photograph, photorealistic rendering, embedded poster, comparison layout,
+upper/lower split, left/right split, or second copy of the source.
 ```
 
 Wallpaper pack — one block per device asset:
