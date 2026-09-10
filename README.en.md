@@ -45,6 +45,15 @@ When a photograph deserves a designed retelling but not a pile of decoration, **
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -63,22 +72,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | Identity, pose, and narrative relationships remain; colour comes from the photograph and reduction serves its memory points |
 | **Where it works** | Art exhibitions, experimental editorial design, cultural posters, covers, design-only art, multiple ratios, and wallpapers |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-identify the most memorable subject and relationships → remove complete background and surplus detail → compress into a few halftone forms and partial structures → establish the skeleton through density and print layers → add a few source-derived coloured lines → finish with whitespace, light type, and editorial order
-```
-
-## Recognisable finished traits
-
-- Black or dark halftones, grain, and density shifts form the primary skeleton; the subject is distilled but remains recognisable.
-- Coloured paths, loops, circled marks, or guide lines serve emotion, direction, air, and time rather than decoration.
-- Ivory, warm-white, or extremely pale ground leaves broad breathing space so a few marks gain tension.
-- Type follows lines, sits near the halftone subject, or touches the edge of whitespace with restrained lightness.
-- Avoid realistic illustration, meaningless decoration, accumulated elements, cheap filters, cartoons, and template-driven layouts.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-104-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
