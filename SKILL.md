@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-104
-description: "Create XXD Panel 104 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-104 or requests the exact Panel 104 style."
+description: "XXD Panel 104｜Halftone Zen Journal: distils the most memorable subject, outline and pose of a photo into an abstract halftone print — the subject pressed into a few silhouettes, edges or partial structures built from black or dark halftone dots of varying density, joined by a few coloured lines taken from the photo (traces, loops, circled marks, guide lines, flowing curves) that carry mood and direction, one unified composition with a calm centre, large pale off-white space and a quiet, zen-like pause, bright clear colours lifted from the photo, and a short title or micro note placed along a line or at the edge of the space. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-104 or asks for halftone, dot-print, minimalist zen or experimental print poster art from a photo."
 ---
 
 # XXD Panel 104

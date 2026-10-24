@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 104｜Halftone Zen Journal: distils the most memorable subject, outline and pose of a photo into an abstract halftone print — the subject pressed into a few silhouettes, edges or partial structures built from black or dark halftone dots of varying density, joined by a few coloured lines taken from the photo (traces, loops, circled marks, guide lines, flowing curves) that carry mood and direction, one unified composition with a calm centre, large pale off-white space and a quiet, zen-like pause, bright clear colours lifted from the photo, and a short title or micro note placed along a line or at the edge of the space. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-104 or asks for halftone, dot-print, minimalist zen or experimental print poster art from a photo.",
+  "short_description": "网点禅意志：把照片提炼成网点形体加几道彩色线条，安放在安静的大片留白里",
+  "zh-CN": {
+    "name": "网点禅意志",
+    "tagline": "把照片提炼成网点组成的形体、几道彩色线条和安静的留白。",
+    "look": "主体被压缩成少量剪影、边缘或局部结构，全部用黑色或深色的半调网点表现，靠网点疏密做出层次，像印刷品放大后的样子。旁边加几道从照片取色的彩色线条，可能是轨迹、圈画、环形线或引导线，带出方向和空气感，和网点一起组成一张完整的画，而不是零散拼贴。背景是大片米白或极浅底色，画面平衡、克制，有停顿感。颜色明快清澈，从照片最亮的部分提纯而来。可配一个短标题或小注释，沿线条方向或落在留白边上。",
+    "traits": ["半调网点", "彩色线性介入", "整体构图", "疏密节奏", "浅色留白", "微妙禅意"],
+    "good": [
+      "有清楚剪影或明暗对比的主体：一个人的背影、一只鸟、一棵树、一只茶杯",
+      "带动作或方向感的瞬间：骑车经过、浪花、飞起的风筝、奔跑的狗",
+      "安静、简单、留白多的照片：海边、窗前、空旷的街道"
+    ],
+    "poor": [
+      "需要看清长相、文字或精细结构的照片：肖像特写、招牌、机械",
+      "元素繁多、每样都想保留的热闹场景：集市、聚会、展会",
+      "想要写实插画、卡通或满版装饰的需求"
+    ]
+  },
+  "en": {
+    "name": "Halftone Zen Journal",
+    "tagline": "Distils a photo into a halftone-dot form, a few coloured lines and quiet open space.",
+    "look": "The subject is pressed into a few silhouettes, edges or partial structures, all rendered in black or dark halftone dots whose density builds the tones, like a printed image seen up close. A few coloured lines drawn from the photo's palette, such as traces, loops, circled marks or guide lines, add direction and a sense of air, and work with the dots as one complete picture rather than a scattered collage. The background is a wide field of off-white or very pale tone, balanced and restrained with a sense of pause. Colours are bright and clear, purified from the lightest parts of the photo. A short title or small note may run along a line or sit at the edge of the space.",
+    "traits": ["Halftone dots", "Coloured line accents", "Unified composition", "Dense and sparse rhythm", "Pale whitespace", "Quiet zen"],
+    "good": [
+      "Subjects with a clear silhouette or strong light and shade: someone seen from behind, a bird, a tree, a teacup",
+      "Moments with movement or direction: a cyclist passing, a breaking wave, a rising kite, a running dog",
+      "Quiet, simple photos with lots of space: a beach, a window, an empty street"
+    ],
+    "poor": [
+      "Photos where faces, text or fine structure must stay readable: close-up portraits, signs, machinery",
+      "Busy scenes where you want to keep everything: markets, parties, trade fairs",
+      "Requests for realistic illustration, cartoons or wall-to-wall decoration"
+    ]
+  },
+  "ja": {
+    "name": "網点禅意誌",
+    "tagline": "写真を、網点でできた形と数本の色の線、静かな余白に凝縮します。",
+    "look": "主役はいくつかのシルエット、縁、部分的な構造に絞られ、すべて黒や濃い色のハーフトーンの網点で表されます。網点の密度で濃淡をつくり、印刷物を拡大したように見えます。そこに写真から色を取った数本の線、たとえば軌跡、丸囲み、環状の線、引き出し線が加わって方向や空気を生み、網点と合わせてばらばらのコラージュではなく一枚の絵になります。背景は生成りやごく淡い色の広い余白で、画面は均衡がとれて控えめ、ふっと間のある静けさがあります。色は写真のいちばん明るい部分から澄ませた明快な色です。短いタイトルや小さな注記が線に沿ったり余白の端に置かれたりします。",
+    "traits": ["ハーフトーンの網点", "色の線の介入", "一体の構図", "粗密のリズム", "淡い余白", "ほのかな禅の気配"],
+    "good": [
+      "シルエットや明暗がはっきりした主役：人の後ろ姿、一羽の鳥、一本の木、湯のみ",
+      "動きや方向のある瞬間：自転車で通り過ぎる人、砕ける波、舞い上がる凧、走る犬",
+      "静かでシンプルな余白の多い写真：海辺、窓辺、人のいない通り"
+    ],
+    "poor": [
+      "顔や文字、細かな構造を読み取りたい写真：顔のアップ、看板、機械",
+      "要素が多く、すべて残したいにぎやかな場面：市場、パーティー、展示会",
+      "写実的なイラスト、カートゥーン、画面いっぱいの装飾を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "망점 선의 기록",
+    "tagline": "사진을 망점으로 된 형태와 몇 줄의 색선, 고요한 여백으로 정제합니다.",
+    "look": "주인공은 몇 개의 실루엣, 가장자리, 부분 구조로 압축되고, 모두 검정이나 짙은 색의 하프톤 망점으로 표현됩니다. 망점의 밀도로 명암을 만들어 인쇄물을 확대한 것처럼 보입니다. 여기에 사진에서 색을 가져온 몇 줄의 선, 예컨대 궤적, 동그라미 표시, 고리 모양 선, 지시선이 더해져 방향과 공기를 만들고, 망점과 함께 흩어진 콜라주가 아닌 한 장의 그림을 이룹니다. 배경은 미색이나 아주 연한 색의 넓은 여백이며, 화면은 균형 잡히고 절제되어 잠시 멈추는 듯한 고요함이 있습니다. 색은 사진의 가장 밝은 부분에서 맑게 다듬은 산뜻한 색입니다. 짧은 제목이나 작은 주석이 선을 따라가거나 여백 끝에 놓입니다.",
+    "traits": ["하프톤 망점", "색선의 개입", "하나로 묶인 구도", "성김과 빽빽함의 리듬", "연한 여백", "은은한 선(禪)의 기운"],
+    "good": [
+      "실루엣이나 명암이 뚜렷한 주인공: 사람의 뒷모습, 새 한 마리, 나무 한 그루, 찻잔",
+      "움직임이나 방향이 있는 순간: 자전거로 지나가는 사람, 부서지는 파도, 떠오르는 연, 달리는 개",
+      "조용하고 단순하며 여백이 많은 사진: 바닷가, 창가, 텅 빈 거리"
+    ],
+    "poor": [
+      "얼굴, 글자, 정밀한 구조를 읽을 수 있어야 하는 사진: 얼굴 클로즈업, 간판, 기계",
+      "요소가 많고 모두 살리고 싶은 북적이는 장면: 시장, 파티, 전시장",
+      "사실적 일러스트, 카툰, 화면을 가득 채운 장식을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "سجلّ النقاط وروح الزِن",
+    "tagline": "يقطّر الصورة في شكل من نقاط الطباعة النصفية وبضعة خطوط ملونة وفراغ هادئ.",
+    "look": "يُضغط العنصر في بضع ظلال أو حواف أو أجزاء من بنيته، كلها مرسومة بنقاط نصفية سوداء أو داكنة تصنع كثافتها درجات الظل، كصورة مطبوعة تُرى عن قرب. تضيف بضعة خطوط ملونة مأخوذة من ألوان الصورة، كالمسارات والحلقات والدوائر حول نقطة وخطوط الإرشاد، إحساساً بالاتجاه والهواء، وتعمل مع النقاط لوحةً واحدة متكاملة لا كولاجاً متناثراً. الخلفية مساحة واسعة بيضاء مائلة إلى الكريمي أو شديدة الفتوح، متوازنة ومتحفظة وفيها إحساس بالتوقف. الألوان زاهية صافية، مُصفّاة من أفتح أجزاء الصورة. قد يمتد عنوان قصير أو ملاحظة صغيرة على طول خط أو يستقر عند حافة الفراغ.",
+    "traits": ["نقاط نصفية", "خطوط ملونة", "تكوين موحّد", "إيقاع الكثافة والتخلخل", "فراغ فاتح", "سكينة الزِن"],
+    "good": [
+      "عناصر بظل واضح أو تباين قوي بين الضوء والعتمة: شخص من الخلف، طائر، شجرة، فنجان شاي",
+      "لحظات فيها حركة أو اتجاه: راكب دراجة عابر، موجة تنكسر، طائرة ورقية ترتفع، كلب يركض",
+      "صور هادئة بسيطة فيها فراغ كثير: شاطئ، نافذة، شارع خالٍ"
+    ],
+    "poor": [
+      "صور يجب أن تبقى فيها الوجوه أو النصوص أو البنى الدقيقة مقروءة: صور الوجه القريبة، اللافتات، الآلات",
+      "المشاهد المزدحمة التي تريد الإبقاء على كل ما فيها: الأسواق، الحفلات، المعارض",
+      "طلب رسم واقعي أو كرتون أو زخرفة تملأ المساحة كلها"
+    ]
+  }
+}
